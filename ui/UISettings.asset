@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cab57c2d08443a0beb14ecd2c95089c, type: 3}
+  m_Name: UISettings
+  m_EditorClassIdentifier: 
+  clearFlags: 4
+  backgroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  cullingMask:
+    serializedVersion: 2
+    m_Bits: 32
+  depth: 0
+  nearClipPlane: 0.3
+  farClipPlane: 1000
+  fieldOfView: 60
+  orthographic: 1
+  orthographicSize: 3.6
+  pixelPerfect: 0
+  planeDistance: 100
+  normalizedSortingGridSize: 0.1
+  sortingLayerID: 0
+  sortingOrder: 0
+  targetDisplay: 0
+  renderMode: 1
+  dynamicPixelsPerUnit: 1
+  defaultSpriteDPI: 96
+  fallbackScreenDPI: 96
+  matchWidthOrHeight: 1
+  physicalUnit: 3
+  referenceResolution: {x: 1280, y: 720}
+  scaleFactor: 1
+  referencePixelsPerUnit: 100
+  uiScaleMode: 1
+  screenMatchMode: 0
+  childOrderInterval: 0
+  additiveOrder: 0
