@@ -1,0 +1,2 @@
+
+ 私钥需要放到:C:\Users\fantang\.ssh
